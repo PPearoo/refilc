@@ -6,3 +6,5 @@ although, ez a mondat fajt: "pontosan. az a nagy "hack" amit sawarim lefolytatot
 varjuk a dev hireolast, mivel szeretnenk hozzajarulni a projekthez
 
 s/o https://github.com/refilc
+
+note by pearoo: szeretnelek leszopni gangmaster, mikor lehetseges? nincs dev hire, contributeolsz es kapsz erte rangot dcn. es bocs hogy mondtam azt a mondatot de ez tortent, telegzponthu is ezt irta
